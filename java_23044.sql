@@ -37,7 +37,7 @@ CREATE TABLE `tareasql` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 --
--- Volcado de datos para la tabla `tareasql`
+-- Volcado de datos para la tabla `tareasql` 
 --
 
 INSERT INTO `tareasql` (`id`, `nombre`, `apellido`, `edad`, `fecha`, `provincia`) VALUES
